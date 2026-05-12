@@ -15,7 +15,6 @@ layout: default
 | [TConfig](http://www.site.uottawa.ca/~awilliam/) | [Williams] | Java-applet | 
 | [TCG (Test Case Generator)](http://csmiss.jpl.nasa.gov/new/set/2000-prop1.doc) | NASA |  | 
 | [AllPairs](http://www.satisfice.com/testmethod.shtml) | Satisfice | Perl script, free, GPL | 
-| [Pro-Test](http://www.sigmazone.com/protest.htm) | SigmaZone | GUI, commercial | 
 | [CTS (Combinatorial Test Services)](http://www.alphaworks.ibm.com/tech/cts) | IBM | Free for non-commercial use | 
 | [Jenny](http://burtleburtle.net/bob/math/jenny.html) | [Jenkins] | Command-line, free, public-domain | 
 | [ReduceArray2](http://www.sstc-online.org/proceedings/2004/PDFFiles/GTD683.pdf) | STSC, U.S. Air Force | Spreadsheet-based, free | 
@@ -66,6 +65,7 @@ layout: default
 | [AllPairs4J](https://github.com/pavelicii/allpairs4j) | [Pavelicii] | Java library |
 | [NWisePy](https://github.com/Oliver-242/ipo)) | [Jizhou Cai] | Python library |
 | [LazyParams](https://github.com/lazyparams/lazyparams) | LazyParams | Java library for unit test parameterization - Open Source |
+| [Pro-Test V2](https://help.sigmazone.com/pro-test/v2) | SigmaZone | CLI, GUI, commercial | 
 
 # Links
 * [Comparison of efficiency](./efficiency.md) 
