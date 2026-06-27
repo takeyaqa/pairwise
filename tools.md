@@ -66,6 +66,7 @@ layout: default
 | [NWisePy](https://github.com/Oliver-242/ipo)) | [Jizhou Cai] | Python library |
 | [LazyParams](https://github.com/lazyparams/lazyparams) | LazyParams | Java library for unit test parameterization - Open Source |
 | [Pro-Test V2](https://help.sigmazone.com/pro-test/v2) | SigmaZone | CLI, GUI, commercial | 
+| [PictRider](https://pictrider.takeyaqa.dev) | [takeyaqa] | Web-based, Open source |
 
 # Links
 * [Comparison of efficiency](./efficiency.md) 
